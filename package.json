@@ -1,0 +1,29 @@
+{
+  "name": "project3-cpsp",
+  "version": "0.0.1",
+  "description": "Restfull API using Ruby, Sinatra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constantinpojoga/project3-cpsp.git"
+  },
+  "keywords": [
+    "Ruby",
+    "Sinatra",
+    "sqlite3",
+    "Rake"
+  ],
+  "author": "Constantin Pojoga <pojogac@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/constantinpojoga/project3-cpsp/issues"
+  },
+  "homepage": "https://github.com/constantinpojoga/project3-cpsp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0"
+  }
+}
